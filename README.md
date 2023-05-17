@@ -4,11 +4,11 @@
 
 ## Features
 
-✨ Responsive layout using flexbox
-✨ Toggleable sidebar using a button
-✨ Header and footer sections
-✨ Main content area with remaining space
-✨ Sidebar and right sidebar sections
+✨ Responsive layout using flexbox. 
+✨ Toggleable sidebar using a button. 
+✨ Header and footer sections. 
+✨ Main content area with remaining space. 
+✨ Sidebar and right sidebar sections. 
 
 ## Usage
 
