@@ -41,6 +41,10 @@ The project consists of the following files:
 💡 JavaScript
 🔀 Flexbox
 
+# project Video
+
+Screen Recording 2023-05-17 at 11.03.07 PM.mov
+
 ## Browser Compatibility
 
 This web layout is designed using modern web technologies and should be compatible with all major web browsers, including Chrome, Firefox, Safari, and Edge.
