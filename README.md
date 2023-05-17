@@ -4,11 +4,11 @@
 
 ## Features
 
-✨ Responsive layout using flexbox. 
-✨ Toggleable sidebar using a button. 
-✨ Header and footer sections. 
-✨ Main content area with remaining space. 
-✨ Sidebar and right sidebar sections. 
+✨ 1. Responsive layout using flexbox.
+✨ 2. Toggleable sidebar using a button.
+✨ 3. Header and footer sections.
+✨ 4. Main content area with remaining space.
+✨ 5. Sidebar and right sidebar sections.
 
 ## Usage
 
@@ -45,7 +45,6 @@ The project consists of the following files:
 
 This web layout is designed using modern web technologies and should be compatible with all major web browsers, including Chrome, Firefox, Safari, and Edge.
 
-
 🚀 Feel free to modify and use the code for your own projects.
 
 ## Credits
@@ -53,4 +52,3 @@ This web layout is designed using modern web technologies and should be compatib
 👤 This layout was created by Rohitsony7 as an example of using flexbox for web design.
 
 📧 If you have any questions or suggestions, please feel free to contact me.
-
